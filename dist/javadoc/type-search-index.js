@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"NetworkMathQuiz","l":"BinaryTree"},{"p":"NetworkMathQuiz","l":"MathQuiz"},{"p":"NetworkMathQuiz","l":"Node"},{"p":"NetworkMathQuiz","l":"Student_GUI"},{"p":"NetworkMathQuiz","l":"Teacher_GUI"}];updateSearchResults();
